@@ -1,0 +1,97 @@
+#bouton {
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-end;
+	padding-top: 10px;
+}
+
+.square {
+	display: flex;
+	padding-top: 5px;
+	padding-right: 20px;
+	padding-left: 10px;
+}
+
+.connexion {
+	display: flex;
+	padding: 5px;
+	text-decoration: none;
+	color: black;
+}
+
+.boutonnavig {
+	padding: 10px;
+	text-decoration: none;
+	color: black;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+.googlesearch {
+	display: flex;
+	flex-direction: column;
+	border-radius: 30px;
+}
+
+.buttons {
+	height: 36px;
+	line-height: 27px;
+}
+
+
+.footer {
+	padding: 80px;
+}
+
+.contenu {
+	color: black;
+	padding-left: 15px;
+	background-color: lightgrey;
+	padding: 2px;
+}
+
+.footer2 {
+	display: flex;
+}
+
+.footer3 {
+	display: flex;
+	padding-right: 10px;
+}
+
+.footer4 {
+	display: flex;
+	padding-right: 10px;
+}
+
+.footer5 {
+	display: flex;
+	padding-right: 10px;
+}
+
+.footer6 {
+	display: flex;
+	padding-right: 800px;
+}
+
+.footer7 {
+	display: flex;
+	padding-right: 10px;
+}
+
+.footer8 {
+	display: flex;
+	padding-right: 10px;
+}
+
+.footer9 {
+	display: flex;
+	padding-right: 10px;
+}
+
+.footer10 {
+	display: flex;
+	padding-right: 10px;
+}
